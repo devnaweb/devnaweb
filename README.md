@@ -3,10 +3,10 @@
 <h3 align="center">📚 Um dev blogueiro, em busca do código inexplicável!</h3>
 
 ---
-<h3> 🧑🏻‍💻 About Me </h3>
+<h3> 🧑🏻‍💻 Sobre mim </h3>
 
-- 🧑 &nbsp; Exploring new technologies, automate tasks and share knowledge.   
-- 💼 &nbsp; I’m currently working on as a Javascript Backend Developer at [Stone.co](https://www.stone.co/). **Project Ton**  
+- 🧑🏻‍ &nbsp; Conteúdo sobre tecnologia e programação todos os dias!
+- 💼 &nbsp; Meu sonho é criar uma escola de tecnologia!
 
 ---
 
